@@ -20,10 +20,11 @@ So, keep your eyes on me! I'll try hard 😄😄
 - Civil Law (Expected: ~2026.11, I'm slowly preparing for the exam for Patent Attorney in 2026.11)
 
 ### 🌱 I want to learn these...
-- English Speaking and Writing (Expected: Some day?)
+
 - More on Deep Learning...     (Expected: 2025.2~)
 - Mobile App Programming       (Expected: 2026.12~)
 - Game Programming             (Expected: 2026.12~)
+- English Speaking and Writing (Expected: Some day?)
 
 ### 🔭 I worked on this!
 - MTG Arena Namuwiki (Private: a little embarassing to show this messy code to you... but it worked 😄)
