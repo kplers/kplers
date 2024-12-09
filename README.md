@@ -6,9 +6,7 @@ Currently a college student studying computer science 😄
 
 Mostly interested in AI, especially regarding games, since I love games! (Especially card games, like MTG!)
 
-I'm still learning... but I believe I become great in the future.
-
-So, keep your eyes on me! I'll try hard 😄😄
+I'm still learning... but keep your eyes on me! I'll try hard 😄😄
 
 ### 🌱 I'm currently learning these!
 - Algorithm (Expected: ~2025.1)
